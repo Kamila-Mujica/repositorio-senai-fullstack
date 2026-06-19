@@ -39,3 +39,15 @@ Perguntas 6 - **Para que servem os operadores &&, || e !? Explique com um exempl
 Eles permitem que o seu código tome decisões baseadas em múltiplos cenários.
 
 - **Operador &&(E/END)**
+Para que serve: Retorna true (verdadeiro) apenas se ambas as condições forem verdadeiras. Se pelo menos uma for falsa, o resultado será false.
+
+Exemplo: Imagine que para entrar em uma festa, você precisa ter o ingresso e ser maior de idade.
+
+---
+- **Operador || (OU Lógico)**
+Para que serve: Retorna true se pelo menos uma das condições for verdadeira. Ele só retorna false se todas as condições forem falsas.
+
+
+---
+- **Operador ! (Negação / NÃO Lógico)**
+Para que serve: Serve para inverter o valor lógico de uma condição. Ele transforma true em false, e vice-versa.

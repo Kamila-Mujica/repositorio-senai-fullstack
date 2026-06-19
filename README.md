@@ -10,6 +10,6 @@
 ## Integrantes de Dupla 
  -kamila Mujica
  
- -Valentina 
+ -Valentina Pena
 
  ---
