@@ -24,6 +24,15 @@ console.log("Entrada negada")
         break;
      case "meia":
         console.log("meia entrada");
-    
+        break;
+        
+        default: console.log("Codigo de ingresso invalido");
 
     }
+
+    if (ehAlunoSENAI &&  codigoIngresso === "meia"){
+        console.log("Aluno com desconto");
+    }
+    console.log("A idade do participante é: "+ idade);
+    console.log("O ingresso é válido? "+ temIngresso);
+
