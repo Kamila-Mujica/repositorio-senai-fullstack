@@ -1,2 +1,7 @@
 let energia = 5;
-wwhile (energia)
+while (energia > 0) {
+    console.log(`Energia atual: ${energia}`);
+    energia--;
+}
+
+console.log("Energia acabou!");
